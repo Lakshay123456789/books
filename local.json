@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "qwerty1",
+    "url":"./1.jpg",
+    "price":300,
+    "copies":10
+       
+  },
+  {
+    "id": 2,
+    "name": "qwerty2",
+    "url":"./2.jpg",
+    "price":400,
+    "copies":5
+    
+  },
+  {
+    "id": 3,
+    "name": "qwerty3",
+    "url":"./3.jpg",
+    "price":500,
+    "copies":8
+    
+  },
+  {
+    "id": 4,
+    "name": "qwerty4",
+    "url":"./4.jpg",
+    "price":300,
+    "copies":20
+   
+  },
+  {
+    "id": 5,
+    "name": "qwerty5",
+    "url":"./5.jpg",
+    "price":200,
+     "copies":20
+   
+  }
+]
